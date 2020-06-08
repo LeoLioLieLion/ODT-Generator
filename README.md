@@ -1,8 +1,8 @@
 # ODT-Generator
 ## Генератор офисных документов ODT
 ### При создании использовалсь
-* (JavaFX)[https://openjfx.io/]
-* (JODF)[https://www.independentsoft.de/jodf/]
+* JavaFX (https://openjfx.io/)
+* JODF (https://www.independentsoft.de/jodf/)
 
 ### Руководство по пользованию:
 1. **Создайте текстовый файл OpenDocument шаблона документа** (.odt). В местах, куда будет необходимо встаивить данные, проставьте метки {#}, где # - номер метки. Наличие нескольких меток с одним номером допускается.
